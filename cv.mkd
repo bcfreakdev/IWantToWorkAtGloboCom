@@ -1,9 +1,17 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Desenvolvedor Web
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Linguagens
+Ruby, Python, Grails, C#, JRuby, PHP, JAVA, JSP, Flex, HTML, JavaScript, CSS, Flex.
+Frameworks
+Rails, Django, Code Igniter, Zend, CakePHP, DooPhp, FuelPHP, Kohana.
+jQuery,JQuery Mobile
+Administration
+Apache, Nginx, MySQL, PostgreSQL, CouchDB, SQLite.
+Coding Background
+Object oriented systems, eXtreme Programming, Design patterns, Test-Driven Development, Domain-Driven Design.
